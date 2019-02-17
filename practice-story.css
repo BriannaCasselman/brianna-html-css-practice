@@ -49,4 +49,5 @@ h3 {
 blockquote {
   border-left: 4px gray solid;
   margin-left: 30px;
+  padding: 5px;
 }
