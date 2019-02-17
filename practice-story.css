@@ -51,3 +51,7 @@ blockquote {
   margin-left: 30px;
   padding: 5px;
 }
+
+ol {
+  list-style-position: inside;
+}
